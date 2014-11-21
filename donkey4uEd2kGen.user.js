@@ -7,6 +7,7 @@
  * @description  Generate ed2k for donkey4u detail page
  * @match      http://donkey4u.com/detail/*
  * @copyright  2014+, You
+ * @updateURL  https://github.com/iron9light/userscripts/raw/master/donkey4uEd2kGen.user.js
  * ==/UserScript==
  */
 var elem, getVal, hash, hashPattern, link, linkText, name, namePattern, s, size, sizePattern, strings;
