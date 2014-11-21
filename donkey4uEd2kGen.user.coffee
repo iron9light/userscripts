@@ -8,6 +8,7 @@
 // @match      http://donkey4u.com/detail/*
 // @copyright  2014+, You
 // @updateURL  https://github.com/iron9light/userscripts/raw/master/donkey4uEd2kGen.user.js
+// @downloadURL  https://github.com/iron9light/userscripts/raw/master/donkey4uEd2kGen.user.js
 // ==/UserScript==
 `
 
